@@ -78,8 +78,6 @@ def compare():
             print("A is equal to B") 
     except ValueError: 
         print("Enter a valid number.")
-
-
 compare()
 ```
 ## for:
