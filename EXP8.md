@@ -23,8 +23,8 @@ numerous other applications such as Bill Pay utility and Trading accounts
 □ Disaster Management.
 The above listed ten points are the most important characteristics of a Banking
 application.
-## Banking applications have multiple tiers involved in performing an operation. For Example, a
-banking application may have:
+## Banking applications have multiple tiers involved in performing an operation. 
+### For Example, a banking application may have:
 1. Web Server to interact with end users via Browser
 2. Middle Tier to validate the input and output for web server
 3. Data Base to store data and procedures
@@ -127,8 +127,5 @@ account
 -Check whether company details are provided in cases of company's current account
 -Check whether proofs for joint account is provided in case of joint account
 -Check whether you are able deposit an account in the name of either of the person in a joint
-Result:
-Thus, the
-
 ## Result:
 Thus, the Test cases for Banking Application is implemented and output is verified successfully.
