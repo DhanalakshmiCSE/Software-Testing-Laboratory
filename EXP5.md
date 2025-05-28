@@ -1,3 +1,6 @@
+# Ex.No: 5 Python language to search a given element is present in the list using Binary search. 
+### DATE: 03/04/2024                                                                      
+### REGISTER NUMBER : 212222040033
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
